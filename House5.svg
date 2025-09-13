@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 127.73 163.58">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-rule: evenodd;
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #e4886f;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-1" points="122.58 158.43 0 158.43 0 28.56 59.56 0 122.58 28.56 122.58 158.43"/>
+    </clipPath>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー_1">
+    <polygon class="cls-2" points="127.73 163.58 5.15 163.58 5.15 33.72 64.71 5.15 127.73 33.72 127.73 163.58"/>
+    <g class="cls-3">
+      <image width="5961" height="3974" transform="translate(-82.39 -4.11) scale(.04)" xlink:href="A:\部内やりとりフォルダ\ヴーさんへ\買い取りサイト　デザイン案_フォルダー\Links\名称_未_設定 (11).png"/>
+    </g>
+  </g>
+</svg>
