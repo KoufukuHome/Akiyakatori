@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 315.74 26.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2b81b1;
+        font-family: NotoSansJP-Bold, 'Noto Sans JP';
+        font-size: 13px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #2b81b1;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <text class="cls-1" transform="translate(22.24 13.63)"><tspan x="0" y="0">その空き家、こうふくホームが引き受けます！</tspan></text>
+    <line class="cls-2" x1=".4" y1=".31" x2="16.74" y2="21.51"/>
+    <line class="cls-2" x1="315.34" y1=".31" x2="299" y2="21.51"/>
+  </g>
+</svg>
