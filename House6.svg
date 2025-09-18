@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 118.5 118.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-1" cx="59.25" cy="59.25" r="59.25"/>
+    </clipPath>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g class="cls-2">
+      <image width="1822" height="1180" transform="translate(154.98 5.52) rotate(-176.3) scale(.1 -.1)" xlink:href="A:\部内やりとりフォルダ\ヴーさんへ\買い取りサイト　デザイン案_フォルダー\空き家外観イメージ2.jpg"/>
+    </g>
+  </g>
+</svg>
